@@ -47,11 +47,11 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: #7A8FF8;
   text-align: center;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: #C7FFEC;
 }
 #nav-list a span {
   font-size: 1.8em;
@@ -241,7 +241,7 @@ body {
     font-size: 6vw;
   }
   /* End Header */
-  
+
   /* Home page */
   #menu-tile, #specials-tile {
     width: 280px;
